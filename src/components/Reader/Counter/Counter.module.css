@@ -1,0 +1,8 @@
+.counter {
+  padding: 16px;
+  width: min-content;
+  margin: auto;
+  font-family: monospace;
+  font-weight: 700;
+  font-size: 18px;
+}

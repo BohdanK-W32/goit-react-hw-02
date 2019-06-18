@@ -1,0 +1,25 @@
+.history {
+  border-radius: 5px;
+  margin: auto;
+  font-family: sans-serif;
+}
+
+.th {
+  width: 290px;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: #ebeef2;
+}
+
+tr {
+  height: 70px;
+}
+
+.type::first-letter {
+  text-transform: uppercase;
+}
+
+td {
+  color: #5c6975;
+  text-align: center;
+}
